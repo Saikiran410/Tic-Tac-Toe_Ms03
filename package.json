@@ -1,0 +1,22 @@
+{
+  "name": "tik_tok.js-20201018t213031z-001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saikiran410/Tic-Tac-Toe_Ms03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saikiran410/Tic-Tac-Toe_Ms03/issues"
+  },
+  "homepage": "https://github.com/Saikiran410/Tic-Tac-Toe_Ms03#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
